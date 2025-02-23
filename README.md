@@ -10,7 +10,7 @@
 - The profile page is served at `/profile`, and the default route is redirected to it
 - Tools: Python, Flask
 
-## How to run the programm:
+## How to run the program:
 1. Execute `pip install -r requirements.txt`
 2. Execute `python app.py`
 3. Open http://localhost:5000
